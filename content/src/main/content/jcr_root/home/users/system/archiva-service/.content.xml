@@ -1,0 +1,7 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:SystemUser"
+    jcr:uuid="9a54f8ab-9a78-8eae-97f0-38fa4d4fea2b"
+    rep:authorizableId="archiva-service"
+    rep:principalName="archiva-service"/>
